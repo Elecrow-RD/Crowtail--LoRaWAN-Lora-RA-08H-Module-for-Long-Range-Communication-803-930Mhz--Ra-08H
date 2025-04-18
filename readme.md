@@ -1,6 +1,8 @@
 ### 1, Product picture
 
-![1.54_inch_hmi_e-paper_display](F:\wiki\lorawan\Lora RA-08H Node Board\crt01158h-crowtail6.jpg)
+![crt01158h-crowtail6](https://github.com/user-attachments/assets/9b7a753c-2438-4aaf-b3fb-e0b1bc0e95c9)
+
+
 
 ### 2, Product version number
 
